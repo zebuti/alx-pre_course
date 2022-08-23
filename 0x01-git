@@ -1,0 +1,3 @@
+$ git mkdir 0x01-git
+echo 'readme' > README.md
+$ 
