@@ -1,5 +1,0 @@
-$ git mkdir 0x01-git
-echo 'readme' > README.md
-$ git add 0x01-git
-$ git commit -m "0x01-git
-"
