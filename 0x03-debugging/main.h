@@ -1,8 +1,9 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-#include <>[Dstdio.h[C[C[D[D>
-void position_or_negative(int 1);[D[i[C[C
+#include <stdio.h>
+
+void positive_or_negative(int i);
 int largest_number(int, int, int);
 void print_remaining_days(int, int, int);
 int convert_day(int, int);
